@@ -11,7 +11,7 @@
 My name is Kenan Suyol.
 
 
-- [LinkedIn](https://www.linkedin.com/in/tohid-yousefi/)
+- [LinkedIn]()
 - [Personal WebPage]()
 - [Hackerrank]()
 - [Kaggle]()
