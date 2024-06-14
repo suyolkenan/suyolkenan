@@ -49,11 +49,11 @@ I am a mechatronics graduate from 9 Eylül University. Thanks to the C# courses 
   <a href="https://www.kaggle.com/in/kenansuyol/" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-%23333?style=for-the-badge&logo=kaggle&logoColor=blue" target="_blank">
   </a>
-  <a href="https://twitter.com/kenan_suyol">
-   <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
+  <a href="https://twitter.com/kenan_suyol" target="_blank">
+   <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"/>
   </a>
   <a href="https://www.instagram.com/kenansuyol/?hl=tr" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
+   <img src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
 </div>
 
